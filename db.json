@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "username": "gourav",
+      "email": "g@gmail.com",
+      "password": "g123",
+      "doctor": false,
+      "id": 1
+    },
+    {
+      "username": "aman",
+      "email": "a@gmail.com",
+      "password": "a123",
+      "doctor": "true",
+      "id": 2
+    },
+    {
+      "email": "j@gmail.com",
+      "password": "j123",
+      "username": "John Doctor",
+      "doctor": true,
+      "id": 3
+    },
+    {
+      "email": "aman@gmail",
+      "password": "a123",
+      "username": "Aman doctor",
+      "doctor": true,
+      "id": 4
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Gourav Sahu",
+      "image": "someimageurl",
+      "specialization": "dermatologist",
+      "experience": "5",
+      "location": "Durg",
+      "date": "2023-05-25T14:54",
+      "slots": "5",
+      "fee": "1000",
+      "id": 1
+    },
+    {
+      "name": "adfaf",
+      "image": "adfasf",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Durg",
+      "date": "2023-05-17T14:57",
+      "slots": "4",
+      "fee": "1234",
+      "id": 2
+    }
+  ]
+}
